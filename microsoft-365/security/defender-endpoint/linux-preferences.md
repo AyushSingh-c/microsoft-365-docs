@@ -77,7 +77,7 @@ Specifies the enforcement preference of antivirus engine. There are three values
 |**Key**|enforcementLevel|
 |**Data type**|String|
 |**Possible values**|real_time <p> on_demand <p> passive (default)|
-|**Comments**|Available in Defender for Endpoint version 101.10.72 or higher.|
+|**Comments**|Available in Defender for Endpoint version 101.10.72 or higher. Default is changed from real_time to passive for Endpoint version 101.23062.0001 or higher.|
 
 #### Enable/disable behavior-monitoring 
 
